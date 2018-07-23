@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Prepared-Mod
+## Notes: Guild Raidsounds for "we are prepared"..
+
+## SavedVariables: preparedmute 
+
+preparedMod.xml
