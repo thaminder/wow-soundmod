@@ -1,14 +1,14 @@
 <Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
-<Script file="preparedMod.lua"/>
+<Script file="tyrolMod.lua"/>
 <!-- Frame to handle all core events -->
 
-	<Frame name="preparedMod_core">
+	<Frame name="tyrolMod_core">
 		<Scripts>
 			<OnLoad>
 					 self:RegisterEvent("ADDON_LOADED");       
 					 self:RegisterEvent("CHAT_MSG_YELL");       
 			</OnLoad>
-			<OnEvent function="preparedMod_OnEvent" />	
+			<OnEvent function="tyrolMod_OnEvent" />	
 		</Scripts>
 	</Frame>
 </Ui>

@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Tyrol-Mod
+## Notes: Guild Raidsounds for "Tyrolean-Blackmoore"..
+
+## SavedVariables: tyrolmute 
+
+tyrolMod.xml
